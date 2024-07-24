@@ -3,7 +3,7 @@ Bt nhóm t4 24/7
 Thành viên trong nhóm:
 
 Nguyễn Vũ Anh 20020360
-Nhiệm vụ:
+Nhiệm vụ
     -Phát triển lớp TeamManagement để quản lý các nhóm thuộc lớp Team.
     -Phát triển các lớp robot gồm Robot trông cây, Robot nuôi cá, triển khai interface FarmingRobot, có thêm các phương thức thu hoạch và chế biến.
     -Phát triển thêm interface MedicalReboot có thêm phương thức chăm sóc.
