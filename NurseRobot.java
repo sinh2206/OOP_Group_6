@@ -1,4 +1,4 @@
-public class NurseRobot {
+public class NurseRobot extends Robot implements MedicalRobot {
     public NurseRobot(String id, String name) {
         super(id, name, "Nurse Robot");
     }
